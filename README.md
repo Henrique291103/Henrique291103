@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=Henrique291103&color=006bed)
+![](https://komarev.com/ghpvc/?username=HenriqueGaldino&color=006bed)
 
 ## Sobre mim
 
@@ -29,12 +29,12 @@
 
 <br/>
 
-<a href="https://github.com/Henrique291103" title="Perfil do Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique291103&theme=dracula&show_icons=true" />
+<a href="https://github.com/HenriqueGaldino" title="Perfil do Henrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGaldino&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-andrion-galdino-9aa9a82a8/)](https://www.linkedin.com/in/henrique-andrion-galdino-9aa9a82a8/)
 [![Gmail Badge](https://img.shields.io/badge/-henriqueandrion.galdino@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriqueandrion.galdino@gmial.com)](mailto:henriqueandrion.galdino@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Henrique291103)
+[![GitHub](https://img.shields.io/github/followers/HenriqueGaldino?label=follow&style=social)](https://github.com/HenriqueGaldino)
